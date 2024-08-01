@@ -32,6 +32,6 @@
 *.app
 *.vsidx
 *.ipch
-/lfs-templock/x64/Release
 *.pdb
 /.vs
+/lfs-templock/x64
